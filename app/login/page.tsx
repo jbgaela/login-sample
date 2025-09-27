@@ -12,7 +12,7 @@ export default function LoginPage() {
       <div className="w-full max-w-md space-y-8 p-8 bg-white shadow-lg rounded-2xl">
         <div className="text-center">
           <h1 className="text-2xl font-bold tracking-tight">
-            Welcome back JBSB
+            Welcome back JBSB!
           </h1>
           <p className="text-sm text-muted-foreground">
             Enter your credentials to continue
