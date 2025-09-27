@@ -11,8 +11,8 @@ export default function LoginPage() {
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <div className="w-full max-w-md space-y-8 p-8 bg-white shadow-lg rounded-2xl">
         <div className="text-center">
-          <h1 className="text-2xl font-bold tracking-tight">
-            Welcome back Toyota Client
+          <h1 className="text-3xl font-bold tracking-tight">
+            Welcome back Toyota Client HELLO!
           </h1>
           <p className="text-sm text-muted-foreground">
             Enter your credentials to continue
